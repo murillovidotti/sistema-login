@@ -1,5 +1,3 @@
-# SISTEMA DE LOGIN
-
 ![login](https://user-images.githubusercontent.com/78566330/188509879-3aa96ac1-f04c-44b2-aafd-858a7bded610.png)
 
 ![register](https://user-images.githubusercontent.com/78566330/188509887-7fcb956b-0942-4ef6-b2d7-4811e29095a1.png)
