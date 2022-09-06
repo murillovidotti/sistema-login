@@ -27,3 +27,7 @@
 ### Instalando as dependencias
 
 - Rode `yarn start` ou `npm start` para inicializar o servidor
+
+## Observações
+
+Criei esse APP em utilizando como ferramenta principal o React, como material de apoio usei como base algumas video aulas do youtube
